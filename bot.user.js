@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
-// @include     http://agar.io/
-// @version     3.03
+// @name        Thefrm agar Kaneki-kun Bot
+// @namespace   Thefrm agar Kaneki-kun Bot
+// @include     http://thefrm.org/agar/
+// @version     1
 // @grant       none
 // ==/UserScript==
 
